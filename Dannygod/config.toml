@@ -1,0 +1,13 @@
+baseURL = "https://dannygod.github.io/"
+languageCode =  "zh-tw"
+title = "Danny's Blog"
+theme = "PaperMod"
+buildDrafts = false
+
+# topic : menu bar
+# # subtopic : tags
+[[menu.main]]
+identifier = "tags"
+name = "tags"
+url = "/tags/"
+weight = 10 
