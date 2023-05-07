@@ -11,3 +11,25 @@ identifier = "tags"
 name = "tags"
 url = "/tags/"
 weight = 30
+
+[[menu.main]]
+identifier = "categories"
+name = "categories"
+url = "/categories/"
+weight = 20
+
+[[menu.main]]
+
+identifier = "archives"
+name = "archives"
+url = "/archives/"
+weight = 30
+
+[params.profileMode]
+enabled = true
+title = "Ready"
+subtitle = "Hi!"
+imageUrl = "img/002.png"
+imageWidth = 120
+imageHeight = 120
+imageTitle = "Enter the content"

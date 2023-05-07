@@ -1,6 +1,14 @@
+---
+title: "要幫這頁取個名字"
+date: 2023,05
+draft: false
+tags: ["code", "test"]
+categories: ["000"]
+---
+
 # 首頁
 
-# サッカーを大好きです⚽️
+# サッカーを大好きです ⚽️
 
 [Hugo](https://www.notion.so/Hugo-fce21c077ead41e6a70d6040c18fd7ca)
 
@@ -78,7 +86,7 @@
 
 ### 考試
 
-[111-1考試](https://www.notion.so/111-1-23cb5ef681cc4adba53350ccf1e73669)
+[111-1 考試](https://www.notion.so/111-1-23cb5ef681cc4adba53350ccf1e73669)
 
 [數位邏輯](https://www.notion.so/84d11ef7b99140b682b4a8cd6d12803d)
 
