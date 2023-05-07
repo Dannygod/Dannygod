@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Danny&#39;s Blog</title>
+    <link>https://dannygod.github.io/posts/</link>
+    <description>Recent content in Posts on Danny&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language><atom:link href="https://dannygod.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://dannygod.github.io/posts/%E9%A6%96%E9%A0%81/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dannygod.github.io/posts/%E9%A6%96%E9%A0%81/</guid>
+      <description>首頁 サッカーを大好きです⚽️ Hugo
+HW03
+Bonus
+Exporting
+程式 HTML 自學 前端 JavaScript
+React - JavascriptReact
+HTML Code
+後端 node.js
+SQL
+非自學 CMD (Command Prompt)
+Git &amp;amp; Github
+C 語言
+Makefile
+Hackmd 教學使用手冊
+課程 程設(二)
+Discrete Math 中文
+英文
+選課 資工選課
+書櫃 閱讀長知識
+遊戲 遊戲日誌
+每日筆記 My Calendar 每日養成習慣
+購物清單
+投資理財 CMoney 投資小達人 記帳-unuse
+考試 111-1考試
+數位邏輯
+教學
+SWOT of GOGOLO
+hw0106
+hw0202
+API</description>
+    </item>
+    
+  </channel>
+</rss>
