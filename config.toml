@@ -10,4 +10,4 @@ buildDrafts = false
 identifier = "tags"
 name = "tags"
 url = "/tags/"
-weight = 10 
+weight = 30
